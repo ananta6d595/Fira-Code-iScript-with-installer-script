@@ -4,8 +4,6 @@ Just run .sh files this will install these fonts. These fonts are not mine, I ha
 
 After download extract (ensure that .ttf files are present) then 
 
-Step1: chmod +x install-FiraCodeiScript-Bold-archlinux.sh install-FiraCodeiScript-Italic-archlinux.sh install-FiraCodeiScript-Regular-archlinux.sh
+Step1: chmod +x install-FiraCodeiScript-archlinux.sh
 
-Step2: ./install-FiraCodeiScript-Bold-archlinux.sh
-
-(install other two are simillar fashoin)
+Step2: ./install-FiraCodeiScript-archlinux.sh
